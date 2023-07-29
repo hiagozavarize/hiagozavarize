@@ -1,7 +1,8 @@
-### Hi, I'm Hiago
+### Welcome!
 
-### Welcome
+### Hello, I'm Hiago, I'm a Computer Science student and a programming student. I love to spend a few hours studying, but I also like to take time out to play video games or watch movies/series/anime or go out for some fresh air with friends or family. I love technology and I like to take advantage of everything it can offer us, professionally I want to become a full stack developer totally versatile in any type of implementation.
 
+##
 
 <a href="https://github.com/hiagozavarize"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hiagozavarize&show_icons=true&count_private=true&theme=radical" /></a>
 <a href="https://github.com/hiagozavarize"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagozavarize&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
