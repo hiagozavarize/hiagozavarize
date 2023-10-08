@@ -1,6 +1,8 @@
-### Welcome!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
-### Hello, I'm Hiago, I'm a Computer Science student and a programming student. I love to spend a few hours studying, but I also like to take time out to play video games or watch movies/series/anime or go out for some fresh air with friends or family. I love technology and I like to take advantage of everything it can offer us, professionally I want to become a full stack developer totally versatile in any type of implementation.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FF1493&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Hiago;Be+Welcome!)](https://git.io/typing-svg)
+
+<p>I'm a Computer Science student and I love to spend a few hours studying, but I also like to take time out to play video games or watch movies/series/anime or go out for some fresh air with friends or family. I love technology and I like to take advantage of everything it can offer us, professionally I want to become a full stack developer totally versatile in any type of implementation.</p>
 
 ##
 
@@ -24,6 +26,8 @@
 <a href="https://www.linkedin.com/in/hiago-de-lima-zavarize-a4a97a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/hiago_zavarize/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:hiagozavarizex2@Gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
 
 <!--![Snake animation](https://github.com/hiagozavarize/rafaballerini2/blob/output/github-contribution-grid-snake.svg)-->
 <!--![Snake animation](https://github.com/hiagozavarize/hiagozavarize/blob/output/github-contribution-grid-snake.svg)-->
