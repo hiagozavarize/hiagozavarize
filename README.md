@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=FF1493&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Hiago;Be+Welcome!)](https://git.io/typing-svg)
 
-<p>I'm a Computer Science student and I love to spend a few hours studying, but I also like to take time out to play video games or watch movies/series/anime or go out for some fresh air with friends or family. I love technology and I like to take advantage of everything it can offer us, professionally I want to become a full stack developer totally versatile in any type of implementation.</p>
+<p>I'm a Computer Science student and I love spending a few hours studying, but I also like to take time to play video games or watch movies/series/anime or go out to get some fresh air with friends or family. I'm a big technology enthusiast, I like to venture into different areas, from hardware to software, taking advantage of everything it can offer us. Professionally, I want to become a full stack developer, completely versatile in any type of implementation.</p>
 
 ##
 
