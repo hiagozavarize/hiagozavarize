@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FF1493&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Hiago;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Hiago;Be+Welcome!)](https://git.io/typing-svg)
 
-<p>I'm a Computer Science student and I love spending a few hours studying, but I also like to take time to play video games or watch movies/series/anime or go out to get some fresh air with friends or family. I'm a big technology enthusiast, I like to venture into different areas, from hardware to software, taking advantage of everything it can offer us. Professionally, I want to become a full stack developer, completely versatile in any type of implementation.</p>
+<p>I am a Computer Science student and I am a great technology enthusiast. I like to venture into different areas, from hardware to software, seeking absolute knowledge. As a fullstack developer under construction I want to become completely versatile in any type of implementation.</p>
 
 ##
 
@@ -40,7 +40,7 @@
 <a href="https://www.instagram.com/hiago_zavarize/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:hiagozavarizex2@Gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 
 <!--![Snake animation](https://github.com/hiagozavarize/rafaballerini2/blob/output/github-contribution-grid-snake.svg)-->
 <!--![Snake animation](https://github.com/hiagozavarize/hiagozavarize/blob/output/github-contribution-grid-snake.svg)-->
