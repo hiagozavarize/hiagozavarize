@@ -6,6 +6,8 @@
 
 ##
 
+![3D contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <a href="https://github.com/hiagozavarize"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hiagozavarize&show_icons=true&count_private=true&theme=radical" /></a>
 <a href="https://github.com/hiagozavarize"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagozavarize&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
 ##
@@ -29,6 +31,8 @@
   <img align="center" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="35" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+
           
 </div>
 
@@ -39,6 +43,8 @@
 <a href="https://www.linkedin.com/in/hiago-de-lima-zavarize-a4a97a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/hiago_zavarize/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:hiagozavarizex2@Gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
